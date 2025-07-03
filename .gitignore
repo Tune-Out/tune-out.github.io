@@ -1,6 +1,8 @@
 # build output
 dist/
 
+.*.swp
+
 # generated types
 .astro/
 
